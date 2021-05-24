@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576856371587",
+    "firebase_url": "https://codibexblogs.firebaseio.com",
+    "project_id": "codibexblogs",
+    "storage_bucket": "codibexblogs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576856371587:android:6ab7af5a0be83ad32186b6",
+        "android_client_info": {
+          "package_name": "com.example.codibex_blogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576856371587-ju954o5ck7diqm48gbh64enaeps5ekm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dQg5yTewPqLl2DZkhGvHY1Byid0PR10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576856371587-ju954o5ck7diqm48gbh64enaeps5ekm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
